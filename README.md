@@ -1,0 +1,1 @@
+# opendistro-for-elasticsearch-1.12.0-bitbucket-pipelines
